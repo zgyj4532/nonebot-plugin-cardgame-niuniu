@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# nonebot-plugin-template
+# nonebot_plugin_cardgame_niuniu_master
 
 _✨ NoneBot 插件简单描述 ✨_
 
